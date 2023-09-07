@@ -1,5 +1,5 @@
 {
-  "name": "angular-react-dates",
+  "name": "elkap-react-dates",
   "version": "0.1.5",
   "description": "Angular wrapper component for Airbnb react-dates.",
   "main": "./bundles/angular-react-dates.umd.js",
@@ -28,7 +28,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/larixsource/angular-react-dates.git"
+    "url": "git+https://github.com/odisoedim/elkap-react-dates.git"
   },
   "keywords": [
     "angular2",
@@ -44,7 +44,7 @@
     "moment": "2.15.1",
     "react": "15.4.2",
     "react-addons-shallow-compare": "15.4.2",
-    "react-dates": "12.4.0",
+    "react-dates": "12.5.1",
     "react-dom": "15.4.2"
   },
   "devDependencies": {
